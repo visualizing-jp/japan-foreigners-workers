@@ -2,7 +2,7 @@
  * Google Analytics 4。測定IDはシリーズ共通。空のあいだは何もしない。
  */
 
-const MEASUREMENT_ID: string = "G-TQRNG44RDM";
+const MEASUREMENT_ID: string = "G-Y66C2KYCE6";
 
 declare global {
   interface Window {
